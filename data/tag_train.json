@@ -1,0 +1,228 @@
+{"doc_token": ["Thriller"], "doc_label": ["GENRE--MAJOR GENRES--THRILLER"]}
+{"doc_token": ["Drama"], "doc_label": ["GENRE--MAJOR GENRES--DRAMA"]}
+{"doc_token": ["ghost", "stories"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--PARANORMAL / SUPERNATURAL--GHOST STORY"]}
+{"doc_token": ["MIT"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--MIT"]}
+{"doc_token": ["universities"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY"]}
+{"doc_token": ["India"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--SOUTH ASIA--INDIA"]}
+{"doc_token": ["literary", "historical"], "doc_label": ["GENRE--MAJOR GENRES--LITERARY FICTION--LITERARY HISTORICAL"]}
+{"doc_token": ["Ghost", "story"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--PARANORMAL / SUPERNATURAL--GHOST STORY"]}
+{"doc_token": ["fairytale"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE"]}
+{"doc_token": ["1940s", "London"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1940S"]}
+{"doc_token": ["parable"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE--FABLE--PARABLE"]}
+{"doc_token": ["China", "as", "a", "setting"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--CHINA"]}
+{"doc_token": ["1937"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY--1930S"]}
+{"doc_token": ["1989"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1980S"]}
+{"doc_token": ["climate", "change", "fiction"], "doc_label": ["GENRE--TOPIC GENRES--ECOFICTION--CLIMATE FICTION"]}
+{"doc_token": ["horror"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--HORROR"]}
+{"doc_token": ["Laos"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA"]}
+{"doc_token": ["lesbian", "love", "stories"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--LESBIAN LOVE STORIES", "GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--LESBIAN LOVE STORIES--LESBIAN ROMANCE"]}
+{"doc_token": ["Iowa", "-", "based", "settings"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--IOWA"]}
+{"doc_token": ["fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["Stanford"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY"]}
+{"doc_token": ["Nazi", "Germany"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["contemporary", "fiction"], "doc_label": ["GENRE--TIME PERIOD--CONTEMPORARY FICTION"]}
+{"doc_token": ["high", "school", "friends"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["adventure", "plot"], "doc_label": ["TOPIC"]}
+{"doc_token": ["science", "fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["Princeton", "University"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--PRINCETON"]}
+{"doc_token": ["Halloween"], "doc_label": ["SETTING--TIME--HOLIDAY--HALLOWEEN"]}
+{"doc_token": ["Malaysia"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA"]}
+{"doc_token": ["California"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--CALIFORNIA"]}
+{"doc_token": ["teenage", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--TEEN ROMANCE"]}
+{"doc_token": ["1950s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1950S"]}
+{"doc_token": ["dark", "humor"], "doc_label": ["GENRE--MAJOR GENRES--COMEDY--DARK HUMOR"]}
+{"doc_token": ["Princeton", "alumni"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--PRINCETON"]}
+{"doc_token": ["queer", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--QUEER ROMANCE"]}
+{"doc_token": ["rural"], "doc_label": ["SETTING--LOCATION--TYPE (location)--BIOME--RURAL"]}
+{"doc_token": ["1991"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1990S"]}
+{"doc_token": ["World", "War", "2"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["family", "dramas"], "doc_label": ["GENRE--MAJOR GENRES--DRAMA--FAMILY DRAMA"]}
+{"doc_token": ["family", "stories"], "doc_label": ["GENRE--TOPIC GENRES--FAMILY STORIES", "GENRE--MAJOR GENRES--DRAMA--FAMILY DRAMA--FAMILY STORIES"]}
+{"doc_token": ["high", "fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY--HIGH FANTASY", "GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["Jamaica"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--CARIBBEAN"]}
+{"doc_token": ["Asian", "folklore"], "doc_label": ["DEMOGRAPHICS--ASIAN"]}
+{"doc_token": ["revenge", "narratives"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--REVENGE NARRATIVE"]}
+{"doc_token": ["Europe"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--EUROPE"]}
+{"doc_token": ["community", "college"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--COLLEGE--COMMUNITY COLLEGE", "SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--COLLEGE"]}
+{"doc_token": ["World", "War", "II", "Narratives"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II (setting)", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II (setting)"]}
+{"doc_token": ["High", "School", "Teacher"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["Mystery"], "doc_label": ["GENRE--MAJOR GENRES--MYSTERY"]}
+{"doc_token": ["coming", "of", "age", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["Santa", "Barbara"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--CALIFORNIA"]}
+{"doc_token": ["1972"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["New", "Hampshire"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--NEW HAMPSHIRE"]}
+{"doc_token": ["lesbian", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--LESBIAN LOVE STORIES--LESBIAN ROMANCE", "GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--LESBIAN LOVE STORIES"]}
+{"doc_token": ["magical", "realism", "and", "fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["mythology"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--MYTHOLOGY"]}
+{"doc_token": ["high", "school", "plot"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["travel", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--TRAVEL STORIES"]}
+{"doc_token": ["epistolary", "form"], "doc_label": ["GENRE--TEMPLATE GENRES--EPISTOLARY--EPISTOLARY FICTION", "GENRE--TEMPLATE GENRES--EPISTOLARY", "GENRE--MAJOR GENRES--EPISTOLARY"]}
+{"doc_token": ["thriller"], "doc_label": ["GENRE--MAJOR GENRES--THRILLER"]}
+{"doc_token": ["epistolary"], "doc_label": ["GENRE--TEMPLATE GENRES--EPISTOLARY", "GENRE--MAJOR GENRES--EPISTOLARY"]}
+{"doc_token": ["1959"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1950S"]}
+{"doc_token": ["Fairy", "tales"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE"]}
+{"doc_token": ["Iowa"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--IOWA"]}
+{"doc_token": ["dark", "fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["asian", "characters"], "doc_label": ["DEMOGRAPHICS--ASIAN"]}
+{"doc_token": ["fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["Zurich"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--EUROPE"]}
+{"doc_token": ["1930s", "screwball", "comedies"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY--1930S"]}
+{"doc_token": ["mystery"], "doc_label": ["GENRE--MAJOR GENRES--MYSTERY"]}
+{"doc_token": ["science", "fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["summertime"], "doc_label": ["SETTING--TIME--SUMMER"]}
+{"doc_token": ["Speculative", "Fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SPECULATIVE FICTION"]}
+{"doc_token": ["Fairytales"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE"]}
+{"doc_token": ["thrillers"], "doc_label": ["GENRE--MAJOR GENRES--THRILLER"]}
+{"doc_token": ["coming", "-", "of", "-", "age", "plot"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["New", "Castle"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--NEW HAMPSHIRE"]}
+{"doc_token": ["Romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE"]}
+{"doc_token": ["1998"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1990S"]}
+{"doc_token": ["on", "the", "run"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--ON THE RUN"]}
+{"doc_token": ["Erotica"], "doc_label": ["GENRE--MAJOR GENRES--EROTICA"]}
+{"doc_token": ["Dystopian", "Fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--DYSTOPIAN"]}
+{"doc_token": ["Iowa"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--IOWA"]}
+{"doc_token": ["city", "/", "urban", "fantasy"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FANTASY"]}
+{"doc_token": ["alternate", "history"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SPECULATIVE FICTION--ALTERNATE HISTORY"]}
+{"doc_token": ["1920", "'s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY--1920S"]}
+{"doc_token": ["Climate", "Change", "Fiction"], "doc_label": ["GENRE--TOPIC GENRES--ECOFICTION--CLIMATE FICTION"]}
+{"doc_token": ["tragic", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE"]}
+{"doc_token": ["Africa", "as", "a", "setting"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--AFRICA"]}
+{"doc_token": ["dark", "fairytale"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE"]}
+{"doc_token": ["time"], "doc_label": ["SETTING--TIME"]}
+{"doc_token": ["hospital"], "doc_label": ["SETTING--LOCATION--TYPE (location)--MEDICAL SETTING--HOSPITAL"]}
+{"doc_token": ["rom", "-", "coms"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--ROMANTIC COMEDY", "GENRE--MAJOR GENRES--COMEDY--ROMANTIC COMEDY"]}
+{"doc_token": ["high", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["experimental", "fiction"], "doc_label": ["GENRE--TEMPLATE GENRES--EXPERIMENTAL FICTION"]}
+{"doc_token": ["Ireland"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--EUROPE--IRELAND"]}
+{"doc_token": ["Literary"], "doc_label": ["GENRE--MAJOR GENRES--LITERARY FICTION"]}
+{"doc_token": ["graduate", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--GRADUATE SCHOOL"]}
+{"doc_token": ["Indian", "settings"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--SOUTH ASIA--INDIA"]}
+{"doc_token": ["World", "War", "Two"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["UCLA"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--UCLA"]}
+{"doc_token": ["folk", "tales"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FOLK TALE"]}
+{"doc_token": ["nineteenth", "century"], "doc_label": ["SETTING--TIME--YEAR--19TH CENTURY"]}
+{"doc_token": ["coming", "of", "age", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["Southern", "California"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--CALIFORNIA--SOUTHERN CALIFORNIA"]}
+{"doc_token": ["mid", "1800s"], "doc_label": ["SETTING--TIME--YEAR--19TH CENTURY"]}
+{"doc_token": ["North", "America"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA"]}
+{"doc_token": ["1974"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["Family", "Drama"], "doc_label": ["GENRE--MAJOR GENRES--DRAMA--FAMILY DRAMA"]}
+{"doc_token": ["winter"], "doc_label": ["SETTING--TIME--WINTER"]}
+{"doc_token": ["Kenya"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--AFRICA"]}
+{"doc_token": ["high", "school", "sweetheart"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["law", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--LAW SCHOOL"]}
+{"doc_token": ["China"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--CHINA"]}
+{"doc_token": ["1970s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["Ecofiction"], "doc_label": ["GENRE--TOPIC GENRES--ECOFICTION"]}
+{"doc_token": ["Asian", "speculative"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--ASIAN SPECULATIVE", "GENRE--MAJOR GENRES--SPECULATIVE--ASIAN SPECULATIVE", "DEMOGRAPHICS--ASIAN", "GENRE--MAJOR GENRES--SPECULATIVE--SPECULATIVE FICTION"]}
+{"doc_token": ["mystery"], "doc_label": ["GENRE--MAJOR GENRES--MYSTERY"]}
+{"doc_token": ["ecofiction"], "doc_label": ["GENRE--TOPIC GENRES--ECOFICTION"]}
+{"doc_token": ["1945"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1940S"]}
+{"doc_token": ["7th", "grade"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--MIDDLE SCHOOL"]}
+{"doc_token": ["Horror"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--HORROR"]}
+{"doc_token": ["LA"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--CALIFORNIA"]}
+{"doc_token": ["black", "comedy"], "doc_label": ["GENRE--MAJOR GENRES--COMEDY--BLACK COMEDY"]}
+{"doc_token": ["WWII"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["Greek", "mythology"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--MYTHOLOGY--GREEK MYTHOLOGY"]}
+{"doc_token": ["parables"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE--FABLE--PARABLE"]}
+{"doc_token": ["Domestic", "fiction"], "doc_label": ["GENRE--TOPIC GENRES--FAMILY STORIES--DOMESTIC FICTION", "GENRE--MAJOR GENRES--AUDIENCE GENRES--DOMESTIC FICTION", "GENRE--MAJOR GENRES--DRAMA--FAMILY DRAMA--DOMESTIC FICTION"]}
+{"doc_token": ["Black", "literature"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--BLACK LITERATURE", "GENRE--DEMOGRAPHIC GENRES--BLACK LITERATURE--BLACK FICTION"]}
+{"doc_token": ["South", "Asia"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--SOUTH ASIA"]}
+{"doc_token": ["Zimbabwe"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--AFRICA"]}
+{"doc_token": ["Science", "Fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["Literary"], "doc_label": ["GENRE--MAJOR GENRES--LITERARY FICTION"]}
+{"doc_token": ["hospice", "setting"], "doc_label": ["SETTING--LOCATION--TYPE (location)--MEDICAL SETTING--HOSPICE"]}
+{"doc_token": ["ghost", "stories"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--PARANORMAL / SUPERNATURAL--GHOST STORY"]}
+{"doc_token": ["1980s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1980S"]}
+{"doc_token": ["erotica"], "doc_label": ["GENRE--MAJOR GENRES--EROTICA"]}
+{"doc_token": ["World", "War", "II", "narratives"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II NARRATIVES", "SETTING--HISTORICAL EVENT (setting)--WORLD WAR II (setting)--WORLD WAR II NARRATIVES", "SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["family", "drama"], "doc_label": ["GENRE--MAJOR GENRES--DRAMA--FAMILY DRAMA"]}
+{"doc_token": ["new", "orleans"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--LOUISIANA--NEW ORLEANS", "SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--LOUISIANA"]}
+{"doc_token": ["Harvard"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--HARVARD"]}
+{"doc_token": ["1950s", "desegregation", "case", "cameo"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1950S"]}
+{"doc_token": ["black", "history"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--BLACK LITERATURE--BLACK HISTORY"]}
+{"doc_token": ["realistic", "science", "fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION--REALISTIC SCIENCE FICTION", "GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION--GROUNDED SCIENCE FICTION", "GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["coming", "-", "of", "-", "age", "story"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["speculative", "fiction"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SPECULATIVE FICTION"]}
+{"doc_token": ["queer", "love", "stories"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--QUEER ROMANCE"]}
+{"doc_token": ["clifi"], "doc_label": ["GENRE--TOPIC GENRES--ECOFICTION--CLIMATE FICTION"]}
+{"doc_token": ["psychological", "drama"], "doc_label": ["GENRE--MAJOR GENRES--DRAMA--PSYCHOLOGICAL DRAMA"]}
+{"doc_token": ["science", "fiction", "stories"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["stories", "set", "in", "hospitals"], "doc_label": ["SETTING--LOCATION--TYPE (location)--MEDICAL SETTING--HOSPITAL"]}
+{"doc_token": ["1918"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY"]}
+{"doc_token": ["stories", "set", "in", "academia"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)"]}
+{"doc_token": ["1960s", "racial", "commentary"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1960S"]}
+{"doc_token": ["Halloween", "setting"], "doc_label": ["SETTING--TIME--HOLIDAY--HALLOWEEN"]}
+{"doc_token": ["black", "speculative"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--BLACK LITERATURE--BLACK FICTION--BLACK SPECULATIVE", "GENRE--MAJOR GENRES--SPECULATIVE--BLACK SPECULATIVE"]}
+{"doc_token": ["1996"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1990S"]}
+{"doc_token": ["20th", "Century"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY"]}
+{"doc_token": ["1910"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY"]}
+{"doc_token": ["Coming", "of", "Age"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["1950s", "American", "race", "relations"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1950S"]}
+{"doc_token": ["New", "Orleans"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA--LOUISIANA--NEW ORLEANS"]}
+{"doc_token": ["fables"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE--FABLE"]}
+{"doc_token": ["Asian", "women"], "doc_label": ["DEMOGRAPHICS--ASIAN"]}
+{"doc_token": ["animal", "allegories"], "doc_label": ["GENRE--TEMPLATE GENRES--ALLEGORY--ANIMAL ALLEGORIES"]}
+{"doc_token": ["Ghana"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--AFRICA"]}
+{"doc_token": ["university"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY"]}
+{"doc_token": ["Afrofuturism"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--AFROFUTURISM", "GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION--AFROFUTURISM"]}
+{"doc_token": ["1973"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["University", "of", "Michigan"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--UNIVERSITY OF MICHIGAN"]}
+{"doc_token": ["1920s", "Los", "Angeles", "setting"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY--1920S"]}
+{"doc_token": ["magical", "realism"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--MAGICAL REALISM"]}
+{"doc_token": ["University", "/", "College"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY", "SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--COLLEGE"]}
+{"doc_token": ["LGBTQ", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE"]}
+{"doc_token": ["young", "romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE"]}
+{"doc_token": ["retold", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--RETOLD STORIES"]}
+{"doc_token": ["1960s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1960S"]}
+{"doc_token": ["Comedy"], "doc_label": ["GENRE--MAJOR GENRES--COMEDY"]}
+{"doc_token": ["Sudan"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--AFRICA"]}
+{"doc_token": ["comical", "plot"], "doc_label": ["GENRE--MAJOR GENRES--COMEDY"]}
+{"doc_token": ["1977"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["stories", "set", "in", "China"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--CHINA"]}
+{"doc_token": ["stories", "that", "combine", "Korean", "mythology", "and", "futuristic", "robots"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--MYTHOLOGY--KOREAN MYTHOLOGY"]}
+{"doc_token": ["cross", "-", "genre", "stories"], "doc_label": ["GENRE--MAJOR GENRES--CROSS-GENRE"]}
+{"doc_token": ["1940s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1940S"]}
+{"doc_token": ["Berkeley"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--UNIVERSITY (setting)--BERKELEY"]}
+{"doc_token": ["1960s", "American", "race", "relations"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1960S"]}
+{"doc_token": ["stories", "where", "all", "of", "the", "action", "takes", "place", "in", "the", "classroom", "and", "at", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--CLASSROOM"]}
+{"doc_token": ["1990s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1990S"]}
+{"doc_token": ["philosophical", "fiction"], "doc_label": ["GENRE--MAJOR GENRES--LITERARY FICTION--PHILOSOPHICAL FICTION"]}
+{"doc_token": ["1930s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY--1930S"]}
+{"doc_token": ["coming", "of", "age"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["the", "1970s"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["bildungsroman"], "doc_label": ["GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE--BILDUNGSROMAN"]}
+{"doc_token": ["1970s", "America"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["fairy", "tales"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE"]}
+{"doc_token": ["1950s", "America"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--1950S", "SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA"]}
+{"doc_token": ["World", "War", "II"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["Fairytale", "/", "Folktale"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE", "GENRE--MAJOR GENRES--SPECULATIVE--FOLK TALE"]}
+{"doc_token": ["1970s", "America"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1970S"]}
+{"doc_token": ["stories", "that", "epitomize", "America"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--NORTH AMERICA--AMERICA"]}
+{"doc_token": ["summer"], "doc_label": ["SETTING--TIME--SUMMER"]}
+{"doc_token": ["rags", "-", "to", "-", "riches", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--RAGS-TO-RICHES"]}
+{"doc_token": ["scifi"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION"]}
+{"doc_token": ["Ireland", "setting"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--EUROPE--IRELAND"]}
+{"doc_token": ["magical", "realism"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--MAGICAL REALISM"]}
+{"doc_token": ["1992"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--LATE 20TH CENTURY--1990S"]}
+{"doc_token": ["Middle", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--MIDDLE SCHOOL"]}
+{"doc_token": ["stories", "set", "in", "country", "fields"], "doc_label": ["SETTING--LOCATION--TYPE (location)--BIOME--RURAL"]}
+{"doc_token": ["black", "speculative", "fiction"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--BLACK LITERATURE--BLACK FICTION--BLACK SPECULATIVE FICTION"]}
+{"doc_token": ["college"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--COLLEGE"]}
+{"doc_token": ["road", "trip", "stories"], "doc_label": ["GENRE--TEMPLATE GENRES--PLOT TROPES--ROAD TRIP STORIES"]}
+{"doc_token": ["epistolary", "fiction"], "doc_label": ["GENRE--TEMPLATE GENRES--EPISTOLARY--EPISTOLARY FICTION", "GENRE--TEMPLATE GENRES--EPISTOLARY", "GENRE--MAJOR GENRES--EPISTOLARY"]}
+{"doc_token": ["allegory"], "doc_label": ["GENRE--TEMPLATE GENRES--ALLEGORY", "GENRE--MAJOR GENRES--ALLEGORY"]}
+{"doc_token": ["hospitalization"], "doc_label": ["SETTING--LOCATION--TYPE (location)--MEDICAL SETTING--HOSPITAL"]}
+{"doc_token": ["1900"], "doc_label": ["SETTING--TIME--YEAR--20TH CENTURY--EARLY 20TH CENTURY"]}
+{"doc_token": ["Sri", "Lanka"], "doc_label": ["SETTING--LOCATION--SPECIFIC (location)--ASIA--SOUTH ASIA"]}
+{"doc_token": ["Catholic", "high", "school"], "doc_label": ["SETTING--LOCATION--TYPE (location)--SCHOOL (setting)--HIGH SCHOOL"]}
+{"doc_token": ["Modern", "Fairy", "Tales"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--FAIRY TALE--MODERN FAIRY TALE"]}
+{"doc_token": ["mecha"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--SCIENCE FICTION--MECHA"]}
+{"doc_token": ["Second", "World", "War"], "doc_label": ["SETTING--HISTORICAL EVENT (setting)--WORLD WAR II", "SETTING--TIME--YEAR--20TH CENTURY--MID 20TH CENTURY--WORLD WAR II"]}
+{"doc_token": ["Dystopian"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--DYSTOPIAN"]}
+{"doc_token": ["dystopian", "future"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--DYSTOPIAN"]}
+{"doc_token": ["Guinea", "beach", "setting"], "doc_label": ["SETTING--LOCATION--TYPE (location)--BIOME--BEACH", "SETTING--LOCATION--SPECIFIC (location)--AFRICA--WEST AFRICA"]}
+{"doc_token": ["coming", "-", "of", "-", "age", "horror"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--HORROR", "GENRE--TEMPLATE GENRES--CHARACTER TROPES--COMING-OF-AGE", "GENRE--TEMPLATE GENRES--PLOT TROPES--COMING-OF-AGE"]}
+{"doc_token": ["Lesbian", "Romance"], "doc_label": ["GENRE--MAJOR GENRES--ROMANCE--LGBTQ ROMANCE--LESBIAN LOVE STORIES--LESBIAN ROMANCE"]}
+{"doc_token": ["dystopian"], "doc_label": ["GENRE--MAJOR GENRES--SPECULATIVE--DYSTOPIAN"]}
+{"doc_token": ["African", "folklore"], "doc_label": ["GENRE--DEMOGRAPHIC GENRES--AFRICAN FOLKLORE", "GENRE--MAJOR GENRES--SPECULATIVE--FOLK TALE--AFRICAN FOLKLORE"]}
