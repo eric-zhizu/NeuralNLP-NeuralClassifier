@@ -11,7 +11,7 @@
     "model_dir": "trained_model_rcv1",
     "data": {
       "train_json_files": [
-        "data/tag_test.json"
+        "data/tag_train.json"
       ],
       "validate_json_files": [
         "data/tag_dev.json"
