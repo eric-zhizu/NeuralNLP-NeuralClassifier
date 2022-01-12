@@ -110,7 +110,7 @@
       "batch_size": 1024,
       "is_flat": true,
       "top_k": 100,
-      "model_dir": "checkpoint_dir_tag/TextRNN_best"
+      "model_dir": "checkpoint_dir_rcv1/TextRNN_best"
     },
     "TextVDCNN": {
       "vdcnn_depth": 9,
